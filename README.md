@@ -1,5 +1,7 @@
 # istac
-Análisis de archivos del ISTAC 
+Análisis de archivos del ISTAC
+
+Esta página no es oficial, ni corresponde a ningún organismo público, por tanto es privada y de finalidad didáctica.
 
 Este repositorio recoge archivos públicos publicados por el Instituto Canario de Estadística. Los archivos son tratados con la extensión Pandas de Python y su finalidad es exclusivamente didáctica y destinada a personas que deseen mejorar la comprensión y la utilización de dichos archivos.
 
