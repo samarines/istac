@@ -9,4 +9,4 @@ Este repositorio supone la copia, difusión, modificación, adaptación, extracc
 
 La fecha de actualización de los datos siempre será inferior a la fecha que conste en este repositorio como propia de la publicación.
 
-Puedes consultar los términos de uso público y general de los datos publicados por el Istac en: http://www.gobiernodecanarias.org/istac/aviso_legal.html
+Puedes consultar los términos de uso público y general de los datos publicados por el ISTAC en: http://www.gobiernodecanarias.org/istac/aviso_legal.html
